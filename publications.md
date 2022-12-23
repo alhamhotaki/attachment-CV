@@ -1,5 +1,5 @@
 
-List of some of the publications:
+# List of some of the publications:
 
 
 - Hotaki, A.O. (2021). Procurement Professionalization in Challenging Environments: The Cases of Afghanistan and Nigeria. World Bank. https://www.worldbank.org/en/events/2021/02/18/procurement-professionalization-in-challenging-environments-the-cases-of-afghanistan-and-nigeria#1 
