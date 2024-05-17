@@ -38,27 +38,27 @@
 - Business Management and Administration
 
 # List of some of the projects @ Masterschool:
-- Explored US Bikeshare Data in Python 
-- Analysed US Census Demographic Data in Tableau with dashboards and stories
-- Analysed Deforestation across the world in SQL and prepared a comprehensive data analytics report
-- Analysed admissions case study in Python using statistical skills
-- Analysed Impacts of Churn Rate across the Business using business analytical skills. 
-- Analysed NYSE data in spreadsheets and prepared a dashboard and P&L statement
-- Explored the Bitcoin Cryptocurrency Market in pandas Python 
-- Investigated Netflix Movies and Guest Stars in The Office in Python
-- Case Study: Analysed Customer Churn in Tableau
+1. US Bikeshare Data Analysis: Explored and analyzed US Bikeshare data using Python.
+2. US Census Demographic Data: Created interactive dashboards and stories in Tableau for comprehensive analysis.
+3. Global Deforestation Analysis: Used SQL to analyze deforestation data and prepared a detailed analytics report.
+4. Admissions Case Study: Applied statistical techniques in Python to analyze admissions data.
+5. Churn Rate Impact Analysis: Evaluated business impacts of churn rate using advanced business analytics.
+6. NYSE Data Analysis: Analyzed NYSE data in spreadsheets, creating a dashboard and P&L statement.
+7. Bitcoin Market Exploration: Investigated the Bitcoin cryptocurrency market using pandas in Python.
+8. Netflix and The Office Analysis: Analyzed Netflix movies and guest stars in "The Office" using Python.
+9. Customer Churn Case Study: Conducted customer churn analysis in Tableau, generating actionable insights.
 
 # List of some of the projects @ University of Cambridge:
-- Analysed Carter Racing case study while identifying the decision biases and ways how to avoid decision traps in developing business solutions. 
-- Used data mining and data cleaning techniques to extract data using APIs 
-- Authored an essay on Four Vs of Big Data 
-- Developed an experiment and A/B testing for a charity organisation
-- Authored an essay on how machine learning algorithms make predictions
-- Conducted an experiment of neural networks in TensorFlow
-- Using prescriptive analytics techniques, analysed ephon case study and prepared a decision tree
-- Using prescriptive analytics techniques, analysed SmartService case study and predicted the probabilities of different decisions outcome on the business. 
-- Analysed zipcar case study and provided profit and risk analysis during the decision-making processes. 
-- Analysed talktalk hack case study and provided suggestions on ethical and legal issues of dealing with consumers data while considering the GDPR
+1. Carter Racing Case Study: Identified decision biases and proposed methods to avoid decision traps in business solutions.
+2. Data Mining and Cleaning: Extracted data using APIs with advanced data mining and cleaning techniques.
+3. Big Data Essay: Authored a comprehensive essay on the Four Vs of Big Data.
+4. A/B Testing Development: Designed and implemented an A/B testing experiment for a charity organization.
+5. Machine Learning Essay: Wrote an insightful essay on how machine learning algorithms make predictions.
+6. Neural Networks Experiment: Conducted a neural networks experiment using TensorFlow.
+7. Ephon Case Study: Applied prescriptive analytics techniques to analyze the case and prepare a decision tree.
+8. SmartService Case Study: Predicted decision outcomes using prescriptive analytics, enhancing business decision-making.
+9. Zipcar Case Study: Provided profit and risk analysis during decision-making processes.
+10. TalkTalk Hack Case Study: Analyzed ethical and legal issues in consumer data management post-hack, with GDPR considerations.
 
 
 
